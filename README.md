@@ -9,11 +9,32 @@ Me encanta ver noticias y videos de desarrolladores, conferencias, realizar tall
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextrdev" alt="alextrdev" /></a> </p>
 
-- 🔭 Mi ultima experiencia laboral fue desarrollar un e-commerce [K-Nows](https://e-knows.herokuapp.com/)
+- 🔭 Mi ultima experiencia laboral fue desarrollar una aplicación web E-Commerce dedicada a la venta online de
+libros físicos y electrónicos.
+Cuenta con un diseño completamente adaptable a cualquier dispositivo para
+una fácil navegación y buena experiencia de usuario.
+También cuenta con un dashboard y panel de administrador con todas sus
+funcionalidades al igual que un panel de perfil de usuario.
+ [K-Nows](https://e-knows.herokuapp.com/)
+ - 🔭Full Stack Teaching Assistant
+julio de 2022 - agosto de 2022 (2 meses)
+Argentina
+Ayudante de bootcamp (TA) para alumnos de Desarrollo Full-Stack.
+Tareas principales:
+• Coordinar a un grupo de estudiantes para lograr la integración al grupo de
+estudio.
+• Orientar a los estudiantes en los primeros pasos de la cursada.
+• Asistir la resolución de ejercicios y promover la colaboración grupal (Pair
+Programming).
+• Proponer ideas para la mejora de los procesos del Bootcamp.
+- 🔭[Academic] - Full Stack Developer - Food - Web App
+julio de 2022 - julio de 2022 (1 mes)
+Argentina
+Henry Food es una aplicación web donde se muestra diversas recetas y
+dietas las cuales puedes agregar a favoritos como usuario y también tienes la
+posibilidad de crear tus propias recetas con sus respectivas dietas.
 
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías e ingles **cursos en linea, grupos de discord y aplicación web**
-
-- 🔭 Experiencia en trabajo individual [Henry-Food](Próximamente...)
 
 - ⚡ Tengo experiencia en **desarrollador frontend en el lenguaje de programación JAVA con 3 años de experiencia y ahora actualmente desarrollador full stack en desarrollo web.**
 
