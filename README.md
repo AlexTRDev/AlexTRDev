@@ -47,7 +47,7 @@ posibilidad de crear tus propias recetas con sus respectivas dietas.
 <a href="https://twitter.com/alexter91198960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexter91198960" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alextrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alextrdev" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/alex.terrones.rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alex.terrones.rivera" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alex.t.rivera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alex.t.rivera/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alextrdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alex.t.rivera/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
